@@ -5,6 +5,18 @@ A RESTful Student Portal backend built with **Node.js** and
 authentication, user profile access, and an admin-only endpoint to view
 registered users.
 
+
+
+
+
+
+<img width="1085" height="433" alt="WhatsApp Image 2026-11-20 at 21 15 41" src="https://github.com/user-attachments/assets/38f191ef-be9e-4125-ac25-1b2b85ac8c3e" />
+
+
+
+
+
+
 ## Features
 
 -   Register student or admin accounts.
