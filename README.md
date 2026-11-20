@@ -17,6 +17,14 @@ registered users.
 
 
 
+<img width="1600" height="423" alt="image" src="https://github.com/user-attachments/assets/04109dee-2cc0-48b5-b57c-c7eae7089111" />
+
+
+
+
+
+
+
 ## Features
 
 -   Register student or admin accounts.
